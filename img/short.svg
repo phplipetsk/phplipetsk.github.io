@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" height="800" width="800">
+    <rect fill="#034A4A" x="0" y="0" width="800px" height="800px"
+          class="logo-background-square"></rect>
+    <g fill="#E87967" stroke="none"
+       transform="matrix(6.875,0,0,6.875,40,40.110005140304565)">
+        <path d="M0 31.984h32v-32H0v32zm2-30h28v28H2v-28z"></path>
+        <path d="M6.439 16.831h8.959l-4.48-7.741zM16.602 13.331h8.959L21.082 5.59zM6.439 26.41h8.959l-4.48-7.741zM16.602 22.91h8.959l-4.479-7.741z"></path>
+    </g>
+</svg>

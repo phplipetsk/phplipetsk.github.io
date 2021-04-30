@@ -1,0 +1,27 @@
+.bg-image {
+    background-image: url(/img/bg.jpeg);
+    background-size: cover;
+}
+
+.bg-dark {
+    background-color: rgb(3 74 74 / 90%) !important;
+}
+
+.text-muted {
+    color: #a7b6c3 !important;
+}
+
+.btn-outline-danger {
+    color: #f3bcb3;
+    border-color: #f3bcb3;
+}
+
+.btn-outline-danger:hover {
+    color: #263238;
+    background-color: #f3bcb3;
+    border-color: #f3bcb3;
+}
+
+.btn-check:focus + .btn-outline-danger, .btn-outline-danger:focus {
+    box-shadow: 0 0 0 0.25rem rgb(243 188 179 / 50%);
+}
